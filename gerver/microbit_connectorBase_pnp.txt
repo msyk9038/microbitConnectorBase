@@ -1,0 +1,35 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=microbit_connectorBase
+*Date=06:43:27
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;47.1593;-11.2006;0;Bottom;TXT1
+2;;;25.6284;-15.8776;0;Bottom;Via15
+3;;;26.8861;-8.25768;0;Bottom;Via4
+4;;;31.9149;-1.82467;0;Bottom;TXT1
+5;;;29.4261;-8.25768;0;Bottom;Via5
+6;;;42.1261;-8.25768;0;Bottom;Via3
+7;;;4.01235;-11.1126;0;Bottom;TXT1
+8;;;39.5861;-8.25768;0;Bottom;Via1
+9;;;14.1863;-15.8776;0;Bottom;Via14
+10;;;9.10608;-8.25768;0;Bottom;Via9
+11;;;36.8481;-11.3609;0;Bottom;TXT1
+12;;;14.2359;-11.254;0;Bottom;TXT1
+13;;;24.3461;-8.25768;0;Bottom;Via8
+14;;;25.735;-11.2006;0;Bottom;TXT1
+15;;;4.02626;-15.8776;0;Bottom;Via13
+16;;;14.1861;-8.25768;0;Bottom;Via11
+17;;;11.6461;-8.25768;0;Bottom;Via10
+18;;;47.2308;-15.8776;0;Bottom;Via12
+19;;;37.0708;-15.8776;0;Bottom;Via16
+20;;;44.6661;-8.25768;0;Bottom;Via2
